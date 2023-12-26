@@ -8,11 +8,21 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+      colors: {
+        white: 'hsl(0, 0%, 100%)',
+        light_pink: 'hsl(275, 100%, 97%)',
+        grayish_purple: 'hsl(292, 16%, 49%)',
+        dark_purple: 'hsl(292, 42%, 14%)',
       },
+      fontWeight: {
+        normal: '400',
+        heavy: '600',
+        extra_heavy: '700'
+      },
+      backgroundImage: {
+        mobile: "url('/background-pattern-mobile.svg')",
+        desktop: "url('/background-pattern-desktop.svg')"
+      }
     },
   },
   plugins: [],
