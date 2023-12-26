@@ -30,8 +30,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/awesooomeME/faq_accordion)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
-- Frontendmentor Solution URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://faq-accordion-neon.vercel.app/)
+- Frontendmentor Solution URL: [Add live site URL here](https://www.frontendmentor.io/solutions/faq-accordion-with-nextjs-lRQeedWq_e)
 
 ## My process
 
@@ -48,7 +48,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://www.joshwcomeau.com/css/custom-css-reset/) - This article explains the CSS reset that I used in this project.
+- [CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/) - This article explains the CSS reset that I used in this project.
 
 ## Author
 
